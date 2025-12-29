@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "月と星が踊るMidnight",
+  "base_artist": "日向坂46",
+  "createdAt": "2025-12-29T04:22:27.008776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月と星が踊るMidnight",
+      "artist": "Hinatazaka46",
+      "has_synced": true,
+      "path": "select/01_月と星が踊るMidnight_Hinatazaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月と星が踊るMidnight",
+      "artist": "日向坂46",
+      "has_synced": false,
+      "path": "select/pl_01_月と星が踊るMidnight_日向坂46.txt"
+    }
+  ]
+}
